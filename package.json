@@ -1,15 +1,12 @@
 {
   "name": "udp-relay",
   "version": "1.0.0",
-  "description": "relay",
+  "description": "udp relay",
   "main": "udprelay.js",
   "scripts": {
     "start": "node udprelay.js"
   },
-  "dependencies": {
-    "ws": "^8.18.0"
-  },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   }
 }
